@@ -1,1 +1,0 @@
-const firebaseURL = "shopping-list-98463-default-rtdb.firebaseio.com";
